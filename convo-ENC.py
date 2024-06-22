@@ -1,5 +1,5 @@
 #_____________________| INFO  |______________________#
-# ENCRYPTED BY :  WARRIOUR RULEX 
+# ENCRYPTED BY :  INDER SMACKIYA 
 # TEAM : ANONYMOUS CYBER
 # PYTHON VERSION : 3.11
 # GITHUB : https://github.com/DeviiLXD
